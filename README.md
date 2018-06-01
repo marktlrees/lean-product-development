@@ -15,7 +15,8 @@ Manufacture products with *margins of control*. The idea of margin of control is
 - Standardised Work
 - Custom Value and Waste Management
 
-## [McKinsey Lean Product Development Management] (https://www.mckinsey.com/business-functions/operations/our-insights/the-lean-management-enterprise)
+## McKinsey Lean Product Development Management 
+[Original Document](https://www.mckinsey.com/business-functions/operations/our-insights/the-lean-management-enterprise)
 
 ### Connecting Strategy, Goals and Meangingful Purpose
 
