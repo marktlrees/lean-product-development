@@ -2,7 +2,7 @@
 
 Manufacture products with *margins of control*. The idea of margin of control is interesting, is this non-functional requirements.
 
-#Topics to Explore
+## Topics to Explore
 
 - Continuous Improvement
 - Quering Theory
@@ -15,9 +15,11 @@ Manufacture products with *margins of control*. The idea of margin of control is
 - Standardised Work
 - Custom Value and Waste Management
 
-# McKinsey Lean Product Development Management
+## McKinsey Lean Product Development Management
 
-# Toyota Way
+### 
+
+## Toyota Way
 
 - Apply a long-term philosophy — Base decisions on your company's long-term philosophy, even if your short-term goals suffer as a result. Pursuing a long-term strategy is always the wisest course, but that long-range goal must be about more than just making money. *Your company's primary mission, properly conceived, is to generate value for your customers and for society at large.* As part of its long-term philosophy, Toyota avoids layoffs at all costs. It emphasizes self-reliance and taking responsibility for deciding your own fate. Honor, respect and dedication are important values. Toyota feels a long-term responsibility as a global citizen and feels accountable for the long-range stability of its business partners.
 - Create continuous flow — Bring issues to the surface, where they can be addressed, by creating a continuous or "one-piece" flow. With a lean flow, one problem may shut down the entire assembly line. This appears very inefficient, but it means that problems get addressed and corrected very quickly because everyone focuses on solving them.
